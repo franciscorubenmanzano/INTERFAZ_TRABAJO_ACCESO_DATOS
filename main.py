@@ -3,7 +3,7 @@ import PySimpleGUI as sg
 import re
 import operator
 import os
-from VideoGame import VideoGame  # Asegúrate de importar la clase VideoGame desde tu módulo
+from VideoGame import VideoGame 
 
 fVideoGame = 'VideoGame.json'
 lVideoGame = []
